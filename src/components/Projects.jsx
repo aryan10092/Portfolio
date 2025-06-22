@@ -55,7 +55,7 @@ function Projects() {
   return (
     <div
       id='projects'
-      className='w-full min-h-screen bg-gradient-t from-gray-950 via-gray-900 to-gray-800 dark:bg-gradient-to-br dark:from-gray-950 dark:via-gray-900 dark:to-gray-800
+      className='w-full min-h-screen  dark:bg-gradient-to-br dark:from-gray-950 dark:via-gray-900 dark:to-gray-800
        text-gray-100 py-24 px-4 sm:px-6 lg:px-8'>
 
       <div className='max-w-7xl mx-auto'>
