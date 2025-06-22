@@ -40,24 +40,41 @@ function Skill() {
         },  };
 
   return (
-    <section id='skills' className=' sm:py-24 scroll-mt-32 md:scroll-mt-24'>
+    <section id='skills' className='py-24 sm:py-16 scroll-mt-32 md:scroll-mt-24'>
          <div className='max-w-7xl mx-auto px-6 sm:px-16'>
             <motion.div
-                initial={{ opacity: 0, y: -20 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true, amount: 0.5 }}
-                transition={{ duration: 0.5, type: "spring",delay:0.4 }}
-                className='text-center mb-16'
-            >
+             initial={{ opacity: 0, y: -20 }}
+             whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, amount: 0.5 }}
+             transition={{ duration: 0.5, type: "spring",delay:0.2 }}
+            className='text-center mb-16' >
                 <h2 className='font-bold text-slate-200 md:text-[60px]
                  sm:text-[50px] xs:text-[40px] text-[30px]'>
 
                      
-                  My Skills  
+           My Skills  
              </h2>
 
                 <p className='mt-3 text-secondary text-[17px] max-w-3xl mx-auto leading-[30px]'>
-                    A collection of technologies and tools I am proficient with. I'm always 
+                    A collection of&nbsp;
+                      <div className="relative inline-block">
+                         technologies  
+                                  
+                        <motion.span
+                         className="absolute left-0 bottom-0 h-[2px] 
+                         bg-gradient-to-r from-purple-500 to-pink-500 w-full"
+                          style={{ originX: 0 }}
+                          initial={{ scaleX: 0 }}
+                          animate={{ scaleX: 1 }}
+                          transition={{
+                            duration: 1.4,
+                            ease: "easeInOut",
+                            repeat:Infinity,
+                          repeatType:"yoyo",
+                        repeatDelay: 0.5,}} 
+                            />
+                                 </div>
+                     &nbsp;and tools I am proficient with. I'm always 
                     eager to learn more and expand my skillset.
                 </p>
             </motion.div>
@@ -109,7 +126,7 @@ function Skill() {
 
   <motion.p
   className="text-center text-slate-500 font-medium text-xs mt-8"
-  animate={{ y: [0, -3, 0] }}
+  animate={{ y: [0, -4, 0] }}
   transition={{ repeat: Infinity, duration: 1.5 }}
 >
   Dragging may lead to uncontrollable fun.

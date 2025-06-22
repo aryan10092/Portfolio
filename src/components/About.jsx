@@ -1,7 +1,8 @@
 import React, { useState, useEffect } from 'react'
 import { motion, AnimatePresence } from 'framer-motion'
+import SocialLinks from './SocialLinks';
 
-function Hero() {
+function About() {
   const [index, setIndex] = useState(0)
   const role=[{
     title:"FULL-STACK Developer",
@@ -31,7 +32,7 @@ useEffect(() => {
   return (
     <section className='relative w-full h-screen mx-auto'>
       <div
-        className='absolute inset-0 top-[145px] max-w-7xl mx-auto sm:px-16 px-6 flex 
+        className='absolute inset-0 top-[145px] sm:top-[100px] max-w-7xl mx-auto sm:px-16 px-6 flex 
            flex-col items-center justify-center text-center gap-5'>
         <div>
 
@@ -61,9 +62,9 @@ useEffect(() => {
 
           </AnimatePresence>
 
-          <p className='mt-4 text-slate-300 text-lg max-w-3xl mx-auto'>
+          <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto'>
             A Full Stack Developer building real-time web applications with the MERN stack.
-            Currently <br className="block sm:hidden" />
+            Currently 
             open to&nbsp; 
             <div className="relative inline-block">
               internship  
@@ -83,15 +84,16 @@ useEffect(() => {
              />
             </div>
 
-         &nbsp;and passionate about <br className="block sm:hidden" />
+         &nbsp;and passionate about 
              solving
             problems through code.
 
          </p>
       </div>
+      <SocialLinks />
     </div>
     </section>
   );
 }
 
-export default Hero
+export default About

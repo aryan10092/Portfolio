@@ -16,11 +16,11 @@ function Header() {
   },
   {
     id: "projects",
-    title: "projects",
+    title: "Projects",
   },
   {
-    id: "contact",
-    title: "contact ",
+    id: "experience",
+    title: "Education ",
   },
 ];
 
@@ -139,7 +139,7 @@ const [toggle, setToggle] = useState(false);
 
                     setTimeout(() => {
                       setToggle(false);
-                    }, 300);
+                    }, 1000);
                   }}
                 >
                   <motion.a 
