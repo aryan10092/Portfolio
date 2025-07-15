@@ -2,7 +2,7 @@ import React from 'react'
 import { motion } from 'framer-motion';
 import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
-import chathub from '../assets/chathub.png';
+import chathub from '../assets/chathub (2).png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 function Projects() {
