@@ -61,6 +61,9 @@ useEffect(() => {
 
           <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto leading-loose'>
             A Full Stack Developer building real-time web applications with the MERN stack.
+              &nbsp; Passionate about 
+             solving
+            problems through code and 
             Currently 
             working as a backend intern in &nbsp; 
             <div className="relative inline-block">
@@ -81,9 +84,7 @@ useEffect(() => {
              />
             </div>
 
-         &nbsp;and passionate about 
-             solving
-            problems through code.
+       
 
          </p>
       </div>
