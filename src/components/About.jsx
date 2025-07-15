@@ -12,9 +12,6 @@ function About() {
 },{ 
     title:"Java & DSA Enthusiast"
     ,
-  },
-{
-    title:"Open to Internship",
   } ,{
     title:"React & Node.js Enthusiast",
   }
