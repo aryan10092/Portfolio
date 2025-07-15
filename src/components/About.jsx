@@ -81,10 +81,10 @@ useEffect(() => {
                 //  repeatType: "yoyo",
                 //  repeatDelay: 0.5,
                }}
-             /> nbsp; in OddlyAI
+             /> 
             </div>
 
-       
+       nbsp; in OddlyAI
 
          </p>
       </div>
