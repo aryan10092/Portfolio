@@ -65,9 +65,9 @@ useEffect(() => {
           <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto'>
             A Full Stack Developer building real-time web applications with the MERN stack.
             Currently 
-            open to&nbsp; 
+            working as a backend intern in&nbsp; 
             <div className="relative inline-block">
-              internship  
+              OddlyAI  
              
              <motion.span
                className="absolute left-0 bottom-0 h-[2px] bg-gradient-to-r from-purple-500 to-pink-500 w-full"
