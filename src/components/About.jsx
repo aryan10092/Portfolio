@@ -65,9 +65,9 @@ useEffect(() => {
              solving
             problems through code and 
             Currently 
-            working as a backend intern in &nbsp; 
+            working as a   &nbsp; 
             <div className="relative inline-block">
-              OddlyAI  
+                backend intern
              
              <motion.span
                className="absolute left-0 bottom-0 h-[2px] bg-gradient-to-r from-purple-500 to-pink-500 w-full"
@@ -81,7 +81,7 @@ useEffect(() => {
                 //  repeatType: "yoyo",
                 //  repeatDelay: 0.5,
                }}
-             />
+             /> nbsp; in OddlyAI
             </div>
 
        
