@@ -59,9 +59,9 @@ useEffect(() => {
 
           </AnimatePresence>
 
-          <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto leading-loose'>
+          <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto leading-relaxed'>
             A Full Stack Developer building real-time web applications with the MERN stack.
-              &nbsp; Passionate about 
+               Passionate about 
              solving
             problems through code and 
             Currently 
