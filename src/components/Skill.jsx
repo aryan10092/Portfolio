@@ -8,6 +8,7 @@ function Skill() {
       "Node.js",
       "Next.js",
       "JavaScript",
+        "Golang",
       "MongoDB",
       "TypeScript",
       "Tailwind CSS",
