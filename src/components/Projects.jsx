@@ -25,12 +25,12 @@ function Projects() {
       live: 'https://mindspark-36uh.onrender.com/',
     },{
 
-      title: 'ChatHub',
-      description: 'A feature-rich, real-time chat application designed for modern communication. Supports multiple chat rooms, private messaging, and user authentication.',
+     title: 'TaskFlow',
+      description: 'A full-stack Trello clone with real-time collaboration, drag-and-drop functionality, and advanced conflict resolution. Built with React, Node.js, Express, and MongoDB.',
       image: chathub,
-      tech: ['React','Node.js','MongoDB', 'Lucide-react', 'Tailwind CSS', 'Context API'],
-      github: 'https://github.com/aryan10092/chathub',
-      live: 'https://chathub-3.onrender.com/',
+      tech: ['React','Node.js','MongoDB', 'Socket.IO', 'React Beautiful DnD'],
+      github: 'https://github.com/aryan10092/Trello-clone',
+      live: 'https://trello-clone-one-mu.vercel.app/',
     }
   ];
 
