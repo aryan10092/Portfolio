@@ -84,7 +84,7 @@ useEffect(() => {
              /> 
             </div>
 
-       nbsp; in OddlyAI
+       &nbsp; in OddlyAI
 
          </p>
       </div>
