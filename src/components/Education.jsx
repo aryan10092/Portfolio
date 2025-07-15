@@ -3,7 +3,7 @@ import { motion } from 'framer-motion'
 import maitlogo from '../assets/mait.png'
 import hackathon from '../assets/hackathon.jpg'
 import certificate from '../assets/certificate.jpg'
-import oddlyai from '../assets/oddlyai.png'
+import oddlyai from '../assets/oddlyai2.png'
 
 
 function Education() {
