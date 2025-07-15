@@ -83,7 +83,7 @@ function Education() {
                 <p className='text-purple-400 font-medium mt-1'>Backend Intern (Golang)</p>
 
                 <p className='text-slate-400 text-sm mt-1'>
-                      June 2025 - Present</p>
+                      July 2025 - Present</p>
                 <p className='text-slate-300 mt-3'>
                   Working on backend services and unified APIs using Golang.
                 </p>
