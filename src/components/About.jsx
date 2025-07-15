@@ -59,10 +59,10 @@ useEffect(() => {
 
           </AnimatePresence>
 
-          <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto'>
+          <p className='mt-12 text-slate-300 text-lg max-w-3xl mx-auto leading-relaxed'>
             A Full Stack Developer building real-time web applications with the MERN stack.
             Currently 
-            working as a backend intern in&nbsp; 
+            working as a backend intern in &nbsp; 
             <div className="relative inline-block">
               OddlyAI  
              
