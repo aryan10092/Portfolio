@@ -37,8 +37,8 @@ function Projects() {
       description: 'A conversational AI application powered by OpenAI\'s GPT-3 model. It can engage in natural language conversations, answer questions, and provide information on a wide range of topics.',
       image: chatbot,
       tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Lucide'],
-      github: 'https://github.com/aryan10092/ChatHub',
-      live: 'https://chathub-1.onrender.com/',
+      github: 'https://github.com/aryan10092/chathub',
+      live: 'https://chathub-3.onrender.com/',
     }
   ];
 
