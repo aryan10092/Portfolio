@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
+import chatbot from '../assets/chathub.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 function Projects() {
@@ -31,6 +32,13 @@ function Projects() {
       tech: ['React','Node.js','MongoDB', 'Socket.IO', 'React Beautiful DnD'],
       github: 'https://github.com/aryan10092/Trello-clone',
       live: 'https://trello-clone-one-mu.vercel.app/',
+    } ,   {
+      title: 'ChatGpt',
+      description: 'A conversational AI application powered by OpenAI\'s GPT-3 model. It can engage in natural language conversations, answer questions, and provide information on a wide range of topics.',
+      image: chatbot,
+      tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Lucide'],
+      github: 'https://github.com/aryan10092/ChatHub',
+      live: 'https://chathub-1.onrender.com/',
     }
   ];
 
