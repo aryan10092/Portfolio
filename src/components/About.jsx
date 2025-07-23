@@ -64,8 +64,8 @@ useEffect(() => {
                Passionate about 
              solving
             problems through code and 
-            currently 
-            working as a   &nbsp; 
+            I have
+            worked as a   &nbsp; 
             <div className="relative inline-block">
                 backend 
              
