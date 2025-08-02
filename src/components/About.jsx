@@ -67,7 +67,7 @@ useEffect(() => {
             I have
             worked as a   &nbsp; 
             <div className="relative inline-block">
-                backend 
+                Full Stack 
              
              <motion.span
                className="absolute left-0 bottom-0 h-[2px] bg-gradient-to-r from-purple-500 to-pink-500 w-full"
