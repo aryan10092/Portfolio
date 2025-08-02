@@ -85,7 +85,7 @@ function Education() {
                 <p className='text-slate-400 text-sm mt-1'>
                       July 2025 - Present</p>
                 <p className='text-slate-300 mt-3'>
-                  Working on backend services and unified APIs using Golang.
+                 Developed clean frontend designs and worked on backend data handling.
                 </p>
               </div>
             </motion.div>
