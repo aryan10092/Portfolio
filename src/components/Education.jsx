@@ -80,7 +80,7 @@ function Education() {
                 <h4 className='text-xl font-bold text-white'>
                     OddlyAI</h4>
 
-                <p className='text-purple-400 font-medium mt-1'>Backend Intern (Golang)</p>
+                <p className='text-purple-400 font-medium mt-1'>Full Stack Intern</p>
 
                 <p className='text-slate-400 text-sm mt-1'>
                       July 2025 - Present</p>
