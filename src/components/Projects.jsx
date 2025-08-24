@@ -4,7 +4,7 @@ import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
-import xera from '../assets/xera3.png';
+import xera from '../assets/xera4.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 function Projects() {
