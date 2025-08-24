@@ -4,6 +4,7 @@ import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
+import xera from '../assets/xera.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
 function Projects() {
@@ -15,7 +16,14 @@ function Projects() {
       tech: ['React', 'Node.js', 'Express', 'MongoDB', 'Socket.IO','Framer-motion'],
       github: 'https://github.com/aryan10092/Codebattle',
       live: 'https://codebattle-1.onrender.com/',  },
-
+     {
+      title: 'Xera',
+      description:'A social media app where user can connect with others and share their thoughts and ideas and can search and post based on different categories.',
+      image:xera,
+      tech: ['Expo', 'Supabase', 'Nativewind', 'Lottie', 'Tanstack'],
+      github: 'https://github.com/aryan10092/Xera',
+      live: 'https://hc-cdn.hel1.your-objectstorage.com/s/v3/187c857c9a6a126f42bcaa37c42d98fb7eeb3cf9_video_from_aryan.mp4',
+    },
     {
       title: 'MindSpark',
 
