@@ -191,7 +191,7 @@ function Projects() {
                     whileTap={{ scale: 0.95 }}  >
 
                     <FaExternalLinkAlt size={15} />
-                    <span>Live Site</span>
+                    <span>Demo</span>
                   </motion.a>
 
                 </div>  </div>
