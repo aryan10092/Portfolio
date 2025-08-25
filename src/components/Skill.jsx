@@ -7,6 +7,7 @@ function Skill() {
       "React",
       "Node.js",
       "Next.js",
+    "React Native",
       "JavaScript",
         "Golang",
       "MongoDB",
