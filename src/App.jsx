@@ -1,6 +1,5 @@
 import { useState } from 'react'
-
-
+import { Analytics } from "@vercel/analytics/next"
 import { BrowserRouter } from 'react-router-dom'
 import Header from './components/Header'
 import Skill from './components/Skill'
@@ -19,6 +18,7 @@ function App() {
       <div className='relative z-0 bg-black min-h-screen'>
       <ParticlesBackground/>
         <div className='relative z-10'>
+         <Analytics />
           <Header/>
           <About/>
           <Skill/>
