@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react"
 import { BrowserRouter } from 'react-router-dom'
 import Header from './components/Header'
 import Skill from './components/Skill'
