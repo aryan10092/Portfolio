@@ -83,7 +83,7 @@ function Education() {
                 <p className='text-purple-400 font-medium mt-1'>Full Stack Intern</p>
 
                 <p className='text-slate-400 text-sm mt-1'>
-                      July 2025 - Present</p>
+                      July - September 2025</p>
                 <p className='text-slate-300 mt-3'>
                  Developed clean frontend designs and worked on backend data handling.
                 </p>
