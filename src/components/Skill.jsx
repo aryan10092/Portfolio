@@ -11,6 +11,8 @@ function Skill() {
       "JavaScript",
         "Golang",
       "MongoDB",
+        "AWS",
+        "Docker",
       "TypeScript",
       "Tailwind CSS",
       "Framer Motion",
