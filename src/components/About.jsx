@@ -9,7 +9,7 @@ function About() {
   },
 {
     title:"MERN Stack Developer",
-},{ 
+},{title:"Devops"},{ 
     title:"Java & DSA Enthusiast"
     ,
   } ,{
