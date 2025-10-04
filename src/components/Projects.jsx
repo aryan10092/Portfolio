@@ -4,6 +4,7 @@ import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
+import Attendify from '../assets/Attendify.png';
 import xera from '../assets/xera4.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
@@ -35,7 +36,7 @@ function Projects() {
     },{
       title: 'Attendify',
       description: 'A cross-platform mobile app built with Expo that provides student and teacher features such as class lists, attendance management, and an AI assistant chatbot.',
-      image: chathub,
+      image: Attendify,
       tech: ['Expo','Supabase','Nativewind', 'Typescript', 'Bluetooth-BLE','Lottie'],
       github: 'https://github.com/aryan10092/Attendify',
       live: 'https://hc-cdn.hel1.your-objectstorage.com/s/v3/8eab0a883f86e3ff4a4f3d693c1ef19701c2b9cf_1004.mp4',
