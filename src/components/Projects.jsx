@@ -4,7 +4,7 @@ import codebattle from '../assets/codebattle.png';
 import mindspark from '../assets/mindspark.png';
 import chathub from '../assets/chathub (2).png';
 import chatbot from '../assets/chathub.png';
-import Attendify from '../assets/Attendify.png';
+import Attendify from '../assets/Attendify2.png';
 import xera from '../assets/xera4.png';
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 
