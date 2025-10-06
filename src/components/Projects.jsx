@@ -144,7 +144,7 @@ function Projects() {
               <div className={`relative z-10 flex flex-col justify-center px-4 py-8 ${index % 2 === 0 ? 'lg:order-2' : 'lg:order-1'}`}>
                 <motion.h3
                  className='text-2xl sm:text-3xl font-bold sm:mb-2  drop-shadow sm:px-3 px-3'
-                 initial={{ opacity: 0, x: -10 }}
+                 initial={{ opacity: 0, x: `${index % 2 === 0 ? 10 : -10}` }}
                  whileInView={{ opacity: 1, x: 0 }}
                  transition={{ duration: 0.5,delay:0.2} }
                  >
