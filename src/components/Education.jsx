@@ -4,7 +4,7 @@ import maitlogo from '../assets/mait.png'
 import hackathon from '../assets/hackathon.jpg'
 import certificate from '../assets/certificate.jpg'
 import oddlyai from '../assets/oddlyai2.png'
-
+import sync from '../assets/sync.png'
 
 function Education() {
   return (
@@ -65,7 +65,29 @@ function Education() {
               className='text-3xl font-semibold text-center mb-8 text-slate-100'>
                 Experience
             </motion.h3>
-         
+                      <motion.div
+              initial={{ opacity: 0, y: -20 }}
+              whileInView={{ opacity: 1, y: 0 }}
+              viewport={{ once: true, amount: 0.5 }}
+              transition={{ duration: 0.5 }}
+              className='bg-neutral-90 p-8 rounded-2xl shadow-lg max-w-3xl mx-auto 
+              flex flex-col sm:flex-row items-center gap-8 border border-white/10 mb-8' >
+            
+              <img src={sync} alt="Sync and Explore Logo"
+               className='w-24 h-24 object-contain bg-white p-2 rounded-full flex-shrink-0' />
+              <div>
+                <h4 className='text-xl font-bold text-white'>
+                    Sync and Explore</h4>
+
+                <p className='text-purple-400 font-medium mt-1'>Full Stack Intern</p>
+
+                <p className='text-slate-400 text-sm mt-1'>
+                     2025 October - Present</p>
+                <p className='text-slate-300 mt-3'>
+                 Working as a Full Stack Developer
+                </p>
+              </div>
+            </motion.div>
               <motion.div
               initial={{ opacity: 0, y: 20 }}
               whileInView={{ opacity: 1, y: 0 }}
