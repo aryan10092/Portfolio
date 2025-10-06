@@ -84,7 +84,7 @@ useEffect(() => {
              /> 
             </div>
 
-       &nbsp; intern in Sync and Explore
+       &nbsp; intern at Sync and Explore
 
          </p>
       </div>
