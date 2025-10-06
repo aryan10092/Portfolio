@@ -4,7 +4,7 @@ import maitlogo from '../assets/mait.png'
 import hackathon from '../assets/hackathon.jpg'
 import certificate from '../assets/certificate.jpg'
 import oddlyai from '../assets/oddlyai2.png'
-import sync from '../assets/sync.png'
+import sync from '../assets/sync.jpg'
 
 function Education() {
   return (
