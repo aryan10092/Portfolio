@@ -64,8 +64,8 @@ useEffect(() => {
                Passionate about 
              solving
             problems through code and 
-            I have
-            worked as a   &nbsp; 
+            currently
+            working as a   &nbsp; 
             <div className="relative inline-block">
                 Full Stack 
              
@@ -84,7 +84,7 @@ useEffect(() => {
              /> 
             </div>
 
-       &nbsp; intern in OddlyAI
+       &nbsp; intern in Sync and Explore
 
          </p>
       </div>
